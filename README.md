@@ -1,5 +1,5 @@
-windoの表示
-複数windowの表示
-遠近法、透視法両対応カメラ実装
-VertexShader,FragmentShader,ShaderProgram,
-VertexArrayObject,VertexBufferObjectをラッピング
+説明
+
+操作方法
+
+計画表
